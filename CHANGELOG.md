@@ -1,4 +1,10 @@
-# 1.0.2
+# 1.0.3
+
+- Added [SoloCosmetics by CapyCat](https://thunderstore.io/c/lethal-company/p/CapyCat/SoloCosmetics/)
+- Added [Zorums Halo ODST Cosmetics by Zorum](https://thunderstore.io/c/lethal-company/p/Zorum/Zorums_Halo_ODST_Cosmetics/)
+- Updated [Julies_Cosmetics by Irenic](https://thunderstore.io/c/lethal-company/p/Irenic/Julies_Cosmetics/)
+
+## 1.0.2
 
 - Use new format for cosmetics
 - Added [BandaidsMegaCosmetics by bandaidroo](https://thunderstore.io/c/lethal-company/p/bandaidroo/BandaidsMegaCosmetics/)

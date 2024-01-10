@@ -1,6 +1,7 @@
 # Caution: there are 800+ cosmetics in this mod
 
 The first launch with AdvancedCompany is going to be very slow. Account for that and don't get mad, you have been warned.
+[IF YOU DONT WANT TO DO CACHING WITH AdvancedCompany INSTALL THIS INSTEAD](https://thunderstore.io/c/lethal-company/p/amione/CosmeticMegapackWithCache/)
 
 ## Why this was made
 
@@ -34,6 +35,7 @@ You can find any cosmetic mod I used below.
 - [InsomniaxCosmetics by Insomniax](https://thunderstore.io/c/lethal-company/p/Insomniax/InsomniaxCosmetics/)
 - [J3STERsCosmeticsFixed by J3STER](https://thunderstore.io/c/lethal-company/p/J3STER/J3STERsCosmeticsFixed/)
 - [Julies_Cosmetics by Irenic](https://thunderstore.io/c/lethal-company/p/Irenic/Julies_Cosmetics/)
+- [Julies_Cosmetics by Irenic](https://thunderstore.io/c/lethal-company/p/Irenic/Julies_Cosmetics/)
 - [Ko_Cosmetics by ko](https://thunderstore.io/c/lethal-company/p/ko/Ko_Cosmetics/)
 - [LRCCosmetics by LRC](https://thunderstore.io/c/lethal-company/p/LRC/LRCCosmetics/)
 - [MikeysCosmetics by MikeysTeam](https://thunderstore.io/c/lethal-company/p/MikeysTeam/MikeysCosmetics/)
@@ -45,6 +47,8 @@ You can find any cosmetic mod I used below.
 - [Rooms_Cosmetics by roomsquad](https://thunderstore.io/c/lethal-company/p/roomsquad/Rooms_Cosmetics/)
 - [SaiCosmetics by Sai](https://thunderstore.io/c/lethal-company/p/Sai/SaiCosmetics/)
 - [SimpleHats by fonnymunkey](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
+- [SoloCosmetics by CapyCat](https://thunderstore.io/c/lethal-company/p/CapyCat/SoloCosmetics/)
 - [ToiletPaper by zelofi](https://thunderstore.io/c/lethal-company/p/zelofi/ToiletPaper/)
 - [Zer0sCosmetics by Zer0](https://thunderstore.io/c/lethal-company/p/Zer0/Zer0sCosmetics/)
+- [Zorums Halo ODST Cosmetics by Zorum](https://thunderstore.io/c/lethal-company/p/Zorum/Zorums_Halo_ODST_Cosmetics/)
 - [ZTKCosmetics by ZTK](https://thunderstore.io/c/lethal-company/p/ZTK/ZTKCosmetics/)
